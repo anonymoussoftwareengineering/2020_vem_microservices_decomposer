@@ -27,7 +27,7 @@ O projeto que tem a responsabilidade de agrupar e compilar os dados obtidos atra
 
 ### A pasta AvaliacaoVEM contém os itens:
 
-- SistemaMonolitco
+- SistemaMonolítico
 
 Contém o projeto do sistema monolítico utilizado para análise da ferramenta.
 
